@@ -13,7 +13,7 @@
 
 [`node-schedule`](https://github.com/node-schedule/node-schedule#readme)
 
-[node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+[`node-telegram-bot-api`](https://github.com/yagop/node-telegram-bot-api)
 
     npm init
     npm install
